@@ -1,4 +1,4 @@
 # practice-git
 this is my first repository
 <br/>
-author - Gaurav Pawar
+author - Gaurav Pawar (Java Developer)
